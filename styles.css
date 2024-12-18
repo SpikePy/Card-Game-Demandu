@@ -1,0 +1,27 @@
+html {
+    text-align: center;
+}
+
+button {
+    margin: 1rem;
+}
+
+hr {
+    border: solid black .1rem;
+}
+
+#card {
+    border: solid .2rem black;
+    border-radius: 2rem;
+    width: fit-content;
+    margin: auto;
+    padding: 1rem;
+    background-color: whitesmoke;
+}
+
+#question2 {
+    transform: rotate(180deg);
+}
+#card:hover{
+    transform: rotate(180deg);
+}
