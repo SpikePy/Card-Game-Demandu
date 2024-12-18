@@ -14,8 +14,8 @@ const questions = [
   "Welche Erfahrung hast du schon einmal gemacht, die jeder einmal machen sollte?", "Eure Majestät sind ab heute König/Königin der Welt. Wie lautet Ihr erster Erlass?",
   "In welchem Bereich wirst du von anderen Menschen oftmals falsch eingeschätzt?", "Wann hat sich dein Leben das letzte Mal wie ein Abenteuer angefühlt?",
   "Worin hast du dich nie geändert?", "Welcher Gegensand hat eine besondere Bedeutung für dich?",
-  "", "",
-  "", "",
-  "", "",
-  "", "",
+  "Angenommen du hast Kindern. Welche Werte würdest du gerne an sie weitergeben?", "Was ist deine Vorstellung eines perfekten Urlaubs?",
+  "Welcher Sache gehst du zurzeit bewusst aus dem Weg? Und warum?", "Womit kann man dich am meisten beeindrucken?",
+  "Was wäre das schönste Kompliment, das man dir machen könnte?", "Was gibt dir ein Gefühl von Zuhause?",
+  "Welchen Lebenstraum hast du dir bisher nicht erfüllen können? Und warum?", "Über welches Thema weißt du besser Bescheid als dein gesamtes Umfeld?",
 ]
